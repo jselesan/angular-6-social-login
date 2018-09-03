@@ -34,3 +34,5 @@ Desktop.ini
 # Build files
 dist/*
 build/*
+
+package-lock.json
